@@ -3,11 +3,12 @@
 **Developed by Takashi Inskeep**  
 *With Claude AI troubleshooting assistance*
 
-kashiins@gmail.com
-Linkedin
-Github
+[Email] kashiins@gmail.com
+[LinkedIn] https://www.linkedin.com/in/takashi-inskeep-525202b7/
+[Github](https://github.com/InskeepTakashi/)
 
-🔗 [Live Demo](your-deployment-url-here) | 📁 [GitHub Repository](your-github-repo-url-here)
+🔗 [Live Demo](deployment-url-here)
+📁 [GitHub Repository](https://github.com/InskeepTakashi/physics-simulations-portfolio)
 
 ## About This Project
 

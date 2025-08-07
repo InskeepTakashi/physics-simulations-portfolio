@@ -8,6 +8,7 @@ import Ring from './Ring.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
+    <h1>Takashi Inskeep</h1>
     <Bounce />
     <Orbit />
     <Ring />

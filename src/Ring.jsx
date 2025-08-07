@@ -91,7 +91,7 @@ function Ring() {
         <div
             style={{
                 backgroundColor: '#1a1a1a',
-                margin: '1em',
+                margin: '1em 0',
                 padding: '1em',
                 borderRadius: '10px',
             }}

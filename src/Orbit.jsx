@@ -100,7 +100,7 @@ export default function App() {
         <div style={{
             fontFamily: 'Arial, sans-serif',
             backgroundColor: '#1a1a1a',
-            margin: '1em',
+            margin: '1em 0',
             padding: '1em',
             borderRadius: '10px',
             color: '#fff',
