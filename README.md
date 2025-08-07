@@ -3,10 +3,6 @@
 **Developed by Takashi Inskeep**  
 *With Claude AI troubleshooting assistance*
 
-[Email] kashiins@gmail.com
-[LinkedIn] https://www.linkedin.com/in/takashi-inskeep-525202b7/
-[Github](https://github.com/InskeepTakashi/)
-
 🔗 [Live Demo](deployment-url-here)
 📁 [GitHub Repository](https://github.com/InskeepTakashi/physics-simulations-portfolio)
 
@@ -135,7 +131,7 @@ src/
 ## Contact
 
 **Takashi Inskeep**  
-[Your Email] | [Your LinkedIn] | [Your GitHub]
+kashiins@gmail.com | (https://www.linkedin.com/in/takashi-inskeep-525202b7/) | https://github.com/InskeepTakashi/
 
 ---
 
