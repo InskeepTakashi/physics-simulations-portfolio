@@ -3,7 +3,7 @@
 **Developed by Takashi Inskeep**  
 *With Claude AI troubleshooting assistance*
 
-🔗 [Live Demo](deployment-url-here)
+🔗 [Live Demo](https://physics-simulations-portfolio.vercel.app/)
 📁 [GitHub Repository](https://github.com/InskeepTakashi/physics-simulations-portfolio)
 
 ## About This Project
