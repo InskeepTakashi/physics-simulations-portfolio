@@ -11,6 +11,9 @@ createRoot(document.getElementById('root')).render(
     <h1>Physics Simulations Portfolio</h1>
     <hr />
     <h2>Takashi Inskeep</h2>
+    <div>
+      GitHub Repository: https://github.com/InskeepTakashi/physics-simulations-portfolio
+    </div>
     <Bounce />
     <Orbit />
     <Ring />
