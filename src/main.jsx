@@ -12,7 +12,10 @@ createRoot(document.getElementById('root')).render(
     <hr />
     <h2>Takashi Inskeep</h2>
     <div>
-      GitHub Repository: https://github.com/InskeepTakashi/physics-simulations-portfolio
+      GitHub Repository:
+      <a href="https://github.com/InskeepTakashi/physics-simulations-portfolio">
+        https://github.com/InskeepTakashi/physics-simulations-portfolio
+      </a>
     </div>
     <Bounce />
     <Orbit />
